@@ -1,3 +1,32 @@
 ol {
     list-style-type: upper-roman;
+    margin-left: 0px;
+}
+
+.first {
+    list-style-type:square ;
+}
+
+.second {
+    list-style-type: upper-latin;
+    font-style: italic;
+}
+
+p {
+    height: 1px;
+    margin-left: 15px;
+}
+
+div {
+    border: 3px solid;
+    width: 30%;
+    border-color: rgb(65, 90, 216);
+    border-bottom-right-radius: 40px;
+    border-top-left-radius:40px ;
+    background-image: linear-gradient(to right, rgb(139, 139, 139),rgb(224, 223, 223),rgb(238, 238, 238), white);
+}
+
+
+li {
+    padding-left: 10px;
 }
